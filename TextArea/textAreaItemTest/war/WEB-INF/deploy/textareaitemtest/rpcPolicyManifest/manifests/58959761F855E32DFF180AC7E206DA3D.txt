@@ -1,0 +1,2 @@
+serviceClass: test.smartgwt.client.GreetingService
+path: 42DEF48C4D93DC234661D612AC04F7B4.gwt.rpc
